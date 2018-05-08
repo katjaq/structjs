@@ -6,6 +6,6 @@ Roberto Toro, April 2017
 To compile `struct.js` you need to have `browserify` installed, and do:
 
 ```
-cr structjs
+cd structjs
 browserify main.js -o struct.js
 ```
